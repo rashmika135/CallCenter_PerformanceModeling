@@ -244,7 +244,7 @@ for period, params in PARAMETERS.items():
         print(f"  High abandonment rate!")
 
 # Test different Agents numbers
-print("\n*********************Testing Solutions (Sensitivity Analysis)*********************")
+print("\n*********************Testing Solutions*********************")
 print("\nTrying different evening agent staffing levels:")
 print()
 
