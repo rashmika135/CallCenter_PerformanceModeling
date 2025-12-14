@@ -219,7 +219,7 @@ def run_simulation(period_name, params, patience_mean):
     }
 
 
-print("\n********************Simulation Results (Discrete-Event Model)********************")
+print("\n********************Simulation Results********************")
 print("\nRunning simulations...")
 print("(captures abandonment and random variations)")
 print()
